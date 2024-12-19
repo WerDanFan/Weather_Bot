@@ -10,7 +10,7 @@ from message_forecast import forecasts
 # Настройка логирования
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = '7436106787:AAHkLombB2fv0IIduOkbqeVUnpvbziMeQ9A' #Введите свой ключ api
+BOT_TOKEN = '' #Введите свой ключ api
 
 # Инициализация бота и диспетчера
 bot = Bot(token=BOT_TOKEN)
